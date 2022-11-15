@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card { 
+    display: flex;
+    padding: 20px; 
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    width: 400px;
+    background-color: #ffb703;
+    color: #023047;
+    border-bottom: 12px solid #fb8500;
+}
+
+
+
